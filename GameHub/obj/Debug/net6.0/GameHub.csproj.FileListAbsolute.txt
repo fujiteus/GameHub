@@ -1,0 +1,15 @@
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\bin\Debug\net6.0\GameHub.exe
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\bin\Debug\net6.0\GameHub.deps.json
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\bin\Debug\net6.0\GameHub.runtimeconfig.json
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\bin\Debug\net6.0\GameHub.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\bin\Debug\net6.0\GameHub.pdb
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.csproj.AssemblyReference.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfoInputs.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfo.cs
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\refint\GameHub.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.pdb
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\GameHub.genruntimeconfig.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\GameHub\obj\Debug\net6.0\ref\GameHub.dll
